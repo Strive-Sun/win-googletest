@@ -1,9 +1,9 @@
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
 
-// extern "C"{
+extern "C"{
 #include "add.h"
-// }
+}
 
 
 TEST(ARRAY_TEST, calculate_test) {
