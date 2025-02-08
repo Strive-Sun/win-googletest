@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\calculate.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\calculate.dir/objects.a @CMakeFiles\calculate.dir\objects1.rsp
-C:\msys64\mingw64\bin\gcc.exe -Wl,--whole-archive CMakeFiles\calculate.dir/objects.a -Wl,--no-whole-archive -o calculate.exe -Wl,--out-implib,libcalculate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\calculate.dir\linkLibs.rsp

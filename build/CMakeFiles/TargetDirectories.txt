@@ -1,3 +1,0 @@
-D:/gtest_project/win-googletest/build/CMakeFiles/calculate.dir
-D:/gtest_project/win-googletest/build/CMakeFiles/edit_cache.dir
-D:/gtest_project/win-googletest/build/CMakeFiles/rebuild_cache.dir
