@@ -1,7 +1,7 @@
 #include "../include/quicksort.h"
 
 // 分区函数，用于将数组分为两部分
-int partition(std::vector<int>& arr, int low, int high) {
+static int partition(std::vector<int>& arr, int low, int high) {
     int pivot = arr[high];
     int i = low - 1;
 

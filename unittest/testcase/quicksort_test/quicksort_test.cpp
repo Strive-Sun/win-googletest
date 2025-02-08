@@ -1,14 +1,11 @@
 #include "gtest/gtest.h"
 #include "gmock/gmock.h"
-
 #include <vector>
 
-extern "C"{
 #include "quicksort.h"
-}
-
 
 // 测试快速排序函数
+
 TEST(Quicksort_Test, quicksort_test) {
     std::vector<int> arr = {3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5};
     std::vector<int> expected = {1, 1, 2, 3, 3, 4, 5, 5, 5, 6, 9};
