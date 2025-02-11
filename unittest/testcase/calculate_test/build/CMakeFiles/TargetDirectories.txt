@@ -1,3 +1,0 @@
-D:/gtest_project/win-googletest/unittest/testcase/calculate_test/build/CMakeFiles/calculate_test.dir
-D:/gtest_project/win-googletest/unittest/testcase/calculate_test/build/CMakeFiles/edit_cache.dir
-D:/gtest_project/win-googletest/unittest/testcase/calculate_test/build/CMakeFiles/rebuild_cache.dir
