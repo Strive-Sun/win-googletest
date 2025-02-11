@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)  # cmake -G "MinGW Makefiles" ..
-project(Quicksort_Test)
+project(Algorithm_Test)
 
 # gtest库相关
 # 如果把gtest放到test目录下，则使用如下包含关系：
@@ -17,6 +17,7 @@ AUX_SOURCE_DIRECTORY("../../../src/algorithm" SRCS)
 # 源代码文件
 set(SRC_FILES
         ${CMAKE_CURRENT_SOURCE_DIR}/../../../src/algorithm/quicksort.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/../../../src/algorithm/mergesort.cpp
 )
 
 # 测试代码目录
